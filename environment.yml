@@ -1,0 +1,17 @@
+name: daedalus
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - xmltodict
+  - requests
+  - pytz
+  - netcdf4
+  - pytables
+  - pandas
+  - jupyter
+  - pytest
+  - cftime=1.0.4
+prefix: C:\Users\kahemk2\AppData\Local\Continuum\anaconda3\envs\test2
+
